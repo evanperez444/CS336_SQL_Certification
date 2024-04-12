@@ -3,6 +3,8 @@
 
 # SQL for Data Science - UC Davis Coursera Online Certification (Completed April 8th, 2024)
 
+https://www.coursera.org/learn/sql-for-data-science?specialization=learn-sql-basics-data-science#outcomes
+
 # ----------------------------------------------------------------
 
 # Course Outcomes
